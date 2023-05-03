@@ -1,0 +1,9 @@
+th{
+    width: 200px;
+}
+table{
+    border: 1px solid grey;
+}
+td{
+    text-align: center;
+}
